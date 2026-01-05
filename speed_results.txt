@@ -1,2 +1,3 @@
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0,0.512 MB/s
-宁夏卫视,http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV1,http://101.74.28.103:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+灵宝新闻综合,http://115.48.160.159:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0,0.102 MB/s
+重庆卫视,http://115.48.160.159:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,0.102 MB/s
