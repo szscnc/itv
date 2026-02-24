@@ -1,8 +1,4 @@
 央视频道,#genre#
-CCTV1,http://101.74.28.61:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://125.42.151.187:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://125.42.148.215:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://101.74.28.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视频道,#genre#
-湖北卫视,http://125.42.148.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
-北京卡通,http://125.42.151.187:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
