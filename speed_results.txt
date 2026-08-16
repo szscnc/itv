@@ -1,5 +1,0 @@
-CCTV11,http://125.42.148.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-内蒙古卫视,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0,0.343 MB/s
-卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0,0.552 MB/s
-安徽卫视,http://125.42.148.214:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-河南卫视,http://125.42.148.214:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
