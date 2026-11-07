@@ -1,7 +1,4 @@
-CCTV1,http://182.114.48.21:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0,1.107 MB/s
-CCTV2,http://182.114.48.21:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0,1.166 MB/s
-CCTV9,http://182.114.48.21:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,1.166 MB/s
-CCTV10,http://182.114.48.21:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,1.107 MB/s
-山西卫视,http://182.114.48.21:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.166 MB/s
-河南新闻,http://182.114.48.21:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,1.166 MB/s
-浙江卫视,http://182.114.48.21:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,1.107 MB/s
+山东卫视,http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+江苏卫视,http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+浙江卫视,http://125.43.249.76:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖北卫视,http://125.43.249.76:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
