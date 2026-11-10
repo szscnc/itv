@@ -1,1 +1,0 @@
-江苏卫视,http://182.114.49.44:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,1.112 MB/s
